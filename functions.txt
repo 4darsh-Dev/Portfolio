@@ -1,0 +1,6 @@
+// Portfolio Website
+// pages - home, contact, services, cv, blog(opt), Docs 
+// Live presentation of works through list items with a screenshot and inside them onclick the hosted website/app
+// Good animation and engaging experience 
+// Hire now button along with testimonials option for better engagement 
+// 
